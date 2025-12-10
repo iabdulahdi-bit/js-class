@@ -1,0 +1,7 @@
+
+1 comment$docmentation
+//singl line
+/*  multi line
+2 variable declaration with let
+let uesr name =("ahmed")
+let age =(24)
